@@ -1,6 +1,6 @@
 # Contribution Guidelines
 
-Appreciate the thought to start your journey with Open Source.
+Appreciate your thought to start an amazing journey with Open Source.
 
 
 Let's lay down some ground rules before you start contributing to this repository:
