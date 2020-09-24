@@ -14,9 +14,9 @@ I know, there are a lot of other repositories out there to make you comfortable 
 
 Please follow next points step-by-step to register your first PR and do a contribution to this repository:
 
-1. [Using Terminal/Command Prompt]()
-2. [Using GitHub Directly]()
-3. [Check Other Repositories]()
+1. [Using Terminal/Command Prompt](https://github.com/siddharth2016/hello-open-source#first-contributions-using-terminal-and-git)
+2. [Using GitHub Directly](https://github.com/siddharth2016/hello-open-source#first-contributions-using-github-directly)
+3. [Check Other Repositories](https://github.com/siddharth2016/hello-open-source#check-other-repositories)
 
 
 ### First Contributions Using Terminal and Git
@@ -198,21 +198,22 @@ Now submit your PR and I will review it within 24 hrours.
 
 Later when this repository gets updated, please make sure your forked repository is in perfect [sync](https://github.com/Logic-Xcution/Kickoff-To-Open-Source#additional-details-keeping-your-fork-synced-with-original-repository) with the actual current repository (siddharth2016/hello-open-source) or you can delete it after successful contribution !
 
-### First Contributions Using GitHub Directly (without use of terminal/command promt)
+### First Contributions Using GitHub Directly
 
 *(working on it)*
 
 
-### Following repositories could be your next stop to further practice creating a PR and do a contribution
+### Check Other Repositories
 
+*Following repositories could be your next stop to further practice creating a PR and do a contribution.*
 
 [First Contributions](https://github.com/firstcontributions/first-contributions)
 
 [KickOff To Open Source](https://github.com/Logic-Xcution/Kickoff-To-Open-Source)
 
 
-Wait for atleast 24 hours to see your first contributions reflecting in your profile !
+Wait for atmost 24 hours to see your first contributions reflecting in your profile !
 
-That's it, if you followed the steps correctly, you should be able to create your first PR and make first contribution to Open Source !
+That's it, if you followed the above steps correctly, you should have been able to create your first PR and make first contribution to Open Source !
 
-### It would be kind of you to spread the word, give this repo a star and help others in their open source journey.
+#### It would be kind of you to spread the word, give this repo a star and help others in their open source journey.
