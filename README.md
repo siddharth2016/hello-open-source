@@ -33,7 +33,7 @@ Copy the **https** link after clicking Code (To clone repository in local).
 
 ![Clone Repo](images/clone_http.png)
 
-Now Open terminal/command prompt in a preferred directory, I will be doing that in Documents, you can create your own folder to keep all your projects at one place (please make sure [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) is installed on your machine).
+Now Open terminal/command prompt in your preferred directory, I will be doing that in Documents, you can create your own folder to keep all your projects at one place (please make sure [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) is installed on your machine).
 
 Write following commands on terminal/command prompt
 
@@ -103,7 +103,7 @@ Now before saving your file, please follow this naming convention **hello_\<your
 
 Here, enter your github username (like siddharth20206) in place of *\<your-github-username\>* and file extension (either txt, md, py, java, c, cpp etc..) in place of \<file-extension\>.
 
-Following is the example of python file, text file and markdown file content (Please make sure you write it yourself to make a habit, otherwise you are free to copy !).
+Following are the example of python file, text file and markdown file content (please make sure you write it yourself to make a habit, otherwise you are free to copy !).
 
 **Python (.py)**
 
@@ -121,7 +121,7 @@ Hello Open Source
 **Hello Open Source**
 ```
 
-Make sure your file shows **Hello Open Source**, either by printing it out as a program or simply a comment in that file (It is a necessary requirement for your PR to be merged in this repository).
+Make sure your file shows **Hello Open Source**, either by printing it out as a program or simply a comment in that file (it is a necessary requirement for your PR to be merged with this repository).
 
 ![File to Make](images/file.png)
 
@@ -214,6 +214,6 @@ Later when this repository gets updated, please make sure your forked repository
 
 Wait for atmost 24 hours to see your first contributions reflecting in your profile !
 
-That's it, if you followed the above steps correctly, you should have been able to create your first PR and make first contribution to Open Source !
+That's it, if you followed the above steps, you should have been able to create your first PR and make first contribution to Open Source !
 
 #### It would be kind of you to spread the word, give this repo a star and help others in their open source journey.
