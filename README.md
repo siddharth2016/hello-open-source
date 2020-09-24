@@ -16,17 +16,17 @@ I know, there are a lot of other repositories out there to make you comfortable 
 Please follow next points step-by-step to register your first PR and do a contribution to this repo:
 
 
-First **Fork** this repository (you will find button Fork on top right corner of this repo).
+First **Fork** this repository (Fork button on top right corner of this repository).
 
 
-Please make sure your forekd repository is in perfect [sync](https://github.com/Logic-Xcution/Kickoff-To-Open-Source#additional-details-keeping-your-fork-synced-with-original-repository) with actual current repo (siddharth2016/hello-open-source).
+Please make sure forked repository is in perfect [sync](https://github.com/Logic-Xcution/Kickoff-To-Open-Source#additional-details-keeping-your-fork-synced-with-original-repository) with the actual current repository (siddharth2016/hello-open-source).
 
 
-Then we need to clone the forked repository (the same repository have been created under your username).
+Then we need to clone the forked repository (the same repository have been created under your username, \<your-username\>/hello-open-source).
 
-Copy the **https** link after clicking Code (this will help us to clone repository in our local).
+Copy the **https** link after clicking Code (To clone repository in local).
 
-Open terminal/command prompt at your preferred location, I will be doing that in Documents, you can create you own folder to keep all your projects at one place (make sure you have [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) installed on you machine).
+Open terminal/command prompt at a preferred location, I will be doing that in Documents, you can create your own folder to keep all your projects at one place (please make sure [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) is installed on your machine).
 
 Write following in terminal/command prompt 
 
@@ -40,9 +40,19 @@ For this repository, it will look something like this
 git clone https://github.com/<your-username>/hello-open-source.git
 ```
 
+![]()
+
 Make sure you put your github username in place of *\<your-username\>* and press enter.
 
-Let's, [checkout](https://git-scm.com/docs/git-checkout) to a branch (if not already present, the following command will create it and checkout to that branch).
+Let's, [checkout](https://git-scm.com/docs/git-checkout) to a branch (if not already present, the following command will checkout to that branch).
+
+Change directory to cloned repository
+
+```bash
+cd hello-open-source
+```
+
+![]()
 
 ```git
 git checkout -b <your-branch-name>
@@ -51,8 +61,10 @@ git checkout -b <your-branch-name>
 Something like this
 
 ```git
-git checkout -b hello_siddharth2016
+git checkout -b hello_siddharth20206
 ```
+
+![]()
 
 Verify you did it right
 
@@ -60,21 +72,34 @@ Verify you did it right
 git status
 ```
 
+![]()
+
 Press enter and you should see something like this
 
 ```git
-
+On branch hello_siddharth20206
+nothing to commit, working tree clean
 ```
+
+![]()
 
 Now we will start doing changes to this branch leaving master (main) branch intact.
 
 Look at the directory/location where you cloned the repository, you should be able to see a folder named **hello-open-source**.
 
-Now open folder named **hello-program**.
+Now open folder named **hello**.
 
 Create a new file inside that folder, that file can be any text file, python file, java file, markdown file or any other file as long as it's content shows/print **Hello Open Source**.
 
-Following is the example of python file, text file and markdown file content (Make sure you write it yourself to make a habit, otherwise you are free to copy !).
+Now before saving your file, please follow this naming convention **hello_\<your-github-username\>.\<file-extension\>**
+
+Here, enter your github username (like siddharth20206 for me) in place of *\<your-github-username\>* and file extension (either txt, md, py, java, c, cpp etc..) in place of \<file-extension\>.
+
+![]()
+
+Now hit `ctrl+s` or `command+s` to save the file (or you can do so by going to **File->Save**).
+
+Following is the example of python file, text file and markdown file content (Please make sure you write it yourself to make a habit, otherwise you are free to copy !).
 
 **Python (.py)**
 
@@ -94,11 +119,7 @@ Hello Open Source
 
 Make sure your file shows **Hello Open Source**, either by printing it out as a program or simply a comment in that file (It is a necessary requirement for your PR to be merged in this repository).
 
-Now before saving your file, please follow this naming convention **hello_\<your-github-username\>.\<file-extension\>**
-
-Here, enter your github username (like siddharth2016 for me) in place of *\<your-github-username\>* and file extension (either txt, md, py, java, c, cpp etc..) in place of \<file-extension\>.
-
-Now hit `ctrl+s` or `command+s` to save the file (or you can do so by going to **File->Save**).
+![]()
 
 Go to terminal, type this and press enter
 
@@ -109,7 +130,13 @@ git status
 You should see something like this
 
 ```git
+On branch hello_siddharth20206
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.DS_Store
+	hello/hello_siddharth20206.py
 
+nothing added to commit but untracked files present (use "git add" to track)
 ```
 
 It means you have some changes that are not [staged](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository) yet, which we need to do next !
@@ -117,26 +144,32 @@ It means you have some changes that are not [staged](https://git-scm.com/book/en
 Type this in terminal/command prompt and press enter
 
 ```git
-git add hello_<your-github-username>.<file-extension>
+git add hello/hello_<your-github-username>.<file-extension>
 ```
 
 Something like this
 
 ```git
-git add hello_siddharth2016.py
+git add hello/hello_siddharth20206.py
 ```
 
-Now you have added the file to staging area. Next comes writing the commit message, make it meaningful. (even though you are doing this for the first time, it's better to do practice on writing good commit messages from start itself)
+![]()
+
+Now you have added the file to staging area. Next comes writing the commit message, make it meaningful (even though you are doing this for the first time, it's better to do practice on writing good commit messages from start itself).
 
 ```git
-git commit -m "add hello_siddharth2016.py"
+git commit -m "add hello_siddharth20206.py"
 ```
+
+![]()
 
 Now you committed the file with a proper message, but the changes are still in your local repository, we need to push them to remote repository. (yes, the one you forked)
 
 ```git
 git push origin <your-branch-name>
 ```
+
+![]()
 
 Here origin is your forked repository reference and \<your-branch-name\> is where your changes will be pushed to remote location.
 
