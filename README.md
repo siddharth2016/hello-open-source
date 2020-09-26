@@ -27,7 +27,7 @@ Please follow next points step-by-step to register your first PR and do a contri
 
 <img src="images/fork.png" width="640px" height="100px" />
 
-Then we need to clone the forked repository (the same repository have been created under your username, \<your-username\>/hello-open-source).
+Then we need to clone the forked repository (the same repository have been created under your username, **\<your-username\>/hello-open-source**).
 
 ### ☞ Copy the **https** link after clicking Code (to clone repository in local)
 
@@ -178,7 +178,7 @@ Excellent, all that remains now is to create a pull request, go back to your git
 
 ### ☞ Click on Compare & pull request 
 
-It will allow your changes to be merged with master branch of actual repository siddharth2016/hello-open-source.
+It will allow your changes to be merged with master branch of actual repository **siddharth2016/hello-open-source**.
 
 Write a meaningful PR message like this
 
@@ -256,7 +256,7 @@ You should see something like this
 
 ### ☞ Click on Compare & pull request 
 
-It will allow your changes to be merged with master branch of actual repository siddharth2016/hello-open-source.
+It will allow your changes to be merged with master branch of actual repository **siddharth2016/hello-open-source**.
 
 Write a meaningful PR message like this
 
