@@ -6,7 +6,7 @@ I know, there are a lot of other repositories out there to make you comfortable 
 
 ## Before Starting the Next Steps
 
-**Make sure you have read *CONTRIBUTING.md* in *.github* folder of this repository.**
+**Make sure you have read *[CONTRIBUTING.md](https://github.com/siddharth2016/hello-open-source/blob/master/.github/CONTRIBUTING.md)* in *.github* folder of this repository.**
 
 *[What is .github ?](https://stackoverflow.com/questions/60507097/is-there-an-overview-of-what-can-go-into-a-github-dot-github-directory#:~:text=On%20Github%2C%20folder%20.,%2C%20CODE_OF_CONDUCT.md%20etc)* 
 
