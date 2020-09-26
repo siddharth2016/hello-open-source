@@ -51,7 +51,6 @@ git clone https://github.com/siddharth20206/hello-open-source.git
 
 ![Git Clone](images/git_clone.png)
 
-
 ### ☞ Let's, [checkout](https://git-scm.com/docs/git-checkout) to a branch (it will start pointing to a branch instead of master/main).
 
 Change directory to cloned repository
@@ -85,27 +84,21 @@ nothing to commit, working tree clean
 
 ![Git Checkout](images/git_checkout.png)
 
-<br />
-
 ### ☞ Look at the directory/location where you cloned the repository, you should be able to see a folder named **hello-open-source**. Open this folder.
 
 <img src="images/hello-open-source.png" width="240px" height="240px" />
-
-<br />
 
 ### ☞ Now open folder named **hello**.
 
 <img src="images/hello.png" width="240px" height="240px" />
 
-<br />
-
 ### ☞ Create a new file inside that folder, that file can be any text file, python file, java file, markdown file or any other file as long as it's content shows/print **Hello Open Source**.
 
-### ☞ Now before saving your file, please follow this naming convention - **hello_\<your-github-username\>.\<file-extension\>**
+**Now before saving your file, please follow this naming convention - **hello_\<your-github-username\>.\<file-extension\>****
 
-### ☞ Here, enter your github username (like siddharth20206) in place of *\<your-github-username\>* and file extension (either txt, md, py, java, c, cpp etc..) in place of \<file-extension\>.
+**Here, enter your github username (like siddharth20206) in place of *\<your-github-username\>* and file extension (either txt, md, py, java, c, cpp etc..) in place of \<file-extension\>.**
 
-### ☞ Following are the example of python file, text file and markdown file content (please make sure you write it yourself to make a habit, otherwise you are free to copy !).
+Following are the example of python file, text file and markdown file content (please make sure you write it yourself to make a habit, otherwise you are free to copy !).
 
 **Python (.py)**
 
@@ -129,7 +122,7 @@ Hello Open Source
 
 <br />
 
-### ☞ Go to terminal, type this and press enter
+Go to terminal, type this and press enter
 
 ```bash
 git status
@@ -161,19 +154,19 @@ Something like this
 git add hello/hello_siddharth20206.py
 ```
 
-### ☞ Now you have added the file to staging area. Next comes writing the commit message, make it meaningful (even though you are doing this for the first time, it's better to do practice on writing good commit messages from start itself).
+Now you have added the file to staging area. Next comes writing the commit message, make it meaningful (even though you are doing this for the first time, it's better to do practice on writing good commit messages from start itself).
 
 ```bash
 git commit -m "create hello_siddharth20206.py"
 ```
 
-### ☞ Now you committed the file with a proper message, but the changes are still in your local repository, we need to push them to remote repository. (yes, to the one you forked)
+Now you committed the file with a proper message, but the changes are still in your local repository, we need to push them to remote repository. (yes, to the one you forked)
 
 ```bash
 git push origin <your-branch-name>
 ```
 
-### ☞ Here origin is your forked repository reference and \<your-branch-name\> is where your changes will be pushed to remote location.
+Here origin is your forked repository reference and \<your-branch-name\> is where your changes will be pushed to remote location.
 
 Something like this
 
@@ -181,12 +174,9 @@ Something like this
 git push origin hello_siddharth20206
 ```
 
-### ☞ Excellent, all that remains now is to create a pull request, go back to your github forked repository and you should be able to see something like this.
+Excellent, all that remains now is to create a pull request, go back to your github forked repository and you should be able to see something like this.
 
 ![Compare and Pull Request](images/compare_pr.png)
-
-<br />
-
 
 ### ☞ Click on **Compare & pull request** to allow your changes to be merged with master branch of actual repository **siddharth2016/hello-open-source**.
 
@@ -228,11 +218,11 @@ Later when this repository gets updated, please make sure your forked repository
 
 ### ☞ Add contents to the file.
 
-### ☞ Now before committing your file, please follow this naming convention - **hello_\<your-github-username\>.\<file-extension\>**
+**Now before committing your file, please follow this naming convention - **hello_\<your-github-username\>.\<file-extension\>****
 
-### ☞ Here, enter your github username (like siddharth20206) in place of *\<your-github-username\>* and file extension (either txt, md, py, java, c, cpp etc..) in place of \<file-extension\>.
+**Here, enter your github username (like siddharth20206) in place of *\<your-github-username\>* and file extension (either txt, md, py, java, c, cpp etc..) in place of \<file-extension\>.**
 
-### ☞ Following are the example of python file, text file and markdown file content (please make sure you write it yourself to make a habit, otherwise you are free to copy !).
+Following are the example of python file, text file and markdown file content (please make sure you write it yourself to make a habit, otherwise you are free to copy !).
 
 **Python (.py)**
 
