@@ -49,8 +49,6 @@ It will look something like this
 git clone https://github.com/siddharth20206/hello-open-source.git
 ```
 
-![Git Clone](images/git_clone.png)
-
 ### ☞ Let's, [checkout](https://git-scm.com/docs/git-checkout) to a branch (it will start pointing to a branch instead of master/main).
 
 Change directory to cloned repository
@@ -81,8 +79,6 @@ Press enter and you should see something like this
 On branch hello_siddharth20206
 nothing to commit, working tree clean
 ```
-
-![Git Checkout](images/git_checkout.png)
 
 ### ☞ Look at the directory/location where you cloned the repository, you should be able to see a folder named **hello-open-source**. Open this folder.
 
