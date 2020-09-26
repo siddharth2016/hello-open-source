@@ -29,7 +29,7 @@ Please follow next points step-by-step to register your first PR and do a contri
 
 Then we need to clone the forked repository (the same repository have been created under your username, \<your-username\>/hello-open-source).
 
-### ☞ Copy the **https** link after clicking Code (To clone repository in local)
+### ☞ Copy the **https** link after clicking Code (to clone repository in local)
 
 <img src="images/clone_http.png" width="640px" height="480px" />
 
@@ -80,15 +80,15 @@ On branch hello_siddharth20206
 nothing to commit, working tree clean
 ```
 
-### ☞ Look at the directory/location where you cloned the repository, you should be able to see a folder named hello-open-source. Open this folder
+Look at the directory/location where you cloned the repository, you should be able to see a folder named hello-open-source. Open this folder.
 
 <img src="images/hello-open-source.png" width="240px" height="240px" />
 
-### ☞ Now open folder named hello
+Now open folder named hello.
 
 <img src="images/hello.png" width="240px" height="240px" />
 
-### ☞ Create a new file inside that folder, that file can be any text file, python file, java file, markdown file or any other file as long as it's content shows/print Hello Open Source (or hello open source)
+**Create a new file inside that folder, that file can be any text file, python file, java file, markdown file or any other file as long as it's content shows/print Hello Open Source (or hello open source).**
 
 **Now before saving your file, please follow this naming convention - hello_\<your-github-username\>.\<file-extension\>.**
 
@@ -112,7 +112,7 @@ Hello Open Source
 **Hello Open Source**
 ```
 
-### ☞ Make sure your file shows Hello Open Source, either by printing it out as a program or simply a comment in that file (it is a necessary requirement for your PR to be merged with this repository)
+**Make sure your file shows Hello Open Source, either by printing it out as a program or simply a comment in that file (it is a necessary requirement for your PR to be merged with this repository).**
 
 <img src="images/file.png" width="640px" height="200px" />
 
@@ -176,7 +176,9 @@ Excellent, all that remains now is to create a pull request, go back to your git
 
 ![Compare and Pull Request](images/compare_pr.png)
 
-### ☞ Click on Compare & pull request to allow your changes to be merged with master branch of actual repository siddharth2016/hello-open-source
+### ☞ Click on Compare & pull request 
+
+It will allow your changes to be merged with master branch of actual repository siddharth2016/hello-open-source.
 
 Write a meaningful PR message like this
 
@@ -196,7 +198,7 @@ Later when this repository gets updated, please make sure your forked repository
 
 <img src="images/fork.png" width="640px" height="100px" />
 
-### ☞ The same repository have been created under your username, \<your-username\>/hello-open-source
+The same repository have been created under your username, **\<your-username\>/hello-open-source**.
 
 ### ☞ Create a branch on your forked repository. Give any name you like !
 
@@ -238,11 +240,11 @@ Hello Open Source
 **Hello Open Source**
 ```
 
-### ☞ Make sure your file shows **Hello Open Source**, either by printing it out as a program or simply a comment in that file (it is a necessary requirement for your PR to be merged with this repository)
+**Make sure your file shows Hello Open Source, either by printing it out as a program or simply a comment in that file (it is a necessary requirement for your PR to be merged with this repository).**
 
 ![New File GitHub](images/md_file_github.png)
 
-### ☞ Next comes writing the commit message, make it meaningful (even though you are doing this for the first time, it's better to do practice on writing good commit messages from start itself)
+**Next comes writing the commit message, make it meaningful (even though you are doing this for the first time, it's better to do practice on writing good commit messages from start itself).**
 
 ![Commit Message](images/commit_file_github.png)
 
@@ -252,7 +254,9 @@ You should see something like this
 
 ![Compare and Pull Request](images/compare_pr.png)
 
-### ☞ Click on **Compare & pull request** to allow your changes to be merged with master branch of actual repository **siddharth2016/hello-open-source**
+### ☞ Click on Compare & pull request 
+
+It will allow your changes to be merged with master branch of actual repository siddharth2016/hello-open-source.
 
 Write a meaningful PR message like this
 
