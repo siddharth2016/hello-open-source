@@ -11,7 +11,7 @@ Let's lay down some ground rules before you start contributing to this repositor
 
 2. Each issue will be discussed, to get a proper understanding of the problem and to reach a collaborative resolution.
 
-3. During HacktoberFest, Only 1 PR per username will be merged. A user cannot do more than 1 contribution to this repository during that period. It is to avoid users getting away with hacktoberfest policy. Please follow HacktoberFest guidelines [here](https://hacktoberfest.digitalocean.com/details)
+3. During HacktoberFest (1-31 Oct), Only 1 PR per username will be merged. A user cannot do more than 1 contribution to this repository during that period. It is to avoid getting this repository flagged from participating in HacktoberFest. Please follow HacktoberFest guidelines [here](https://hacktoberfest.digitalocean.com/details)
 
 4. It would be kind of you to spread the word, give this repo a star and help others in their open source journey.
 
