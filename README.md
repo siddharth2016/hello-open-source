@@ -172,6 +172,10 @@ Something like this
 git push origin hello_siddharth20206
 ```
 
+Enter your username and password, and you are all set !
+
+*[What is git credential store ?](https://git-scm.com/docs/git-credential-store)*
+
 Excellent, all that remains now is to create a pull request, go back to your github forked repository and you should be able to see something like this.
 
 ![Compare and Pull Request](images/compare_pr.png)
