@@ -283,3 +283,6 @@ Wait for at most 24 hours to see your first contribution on your profile !
 That's it, if you followed the above steps, you should have been able to create your first PR and your first contribution to Open Source !
 
 #### It would be kind of you to spread the word, give this repo a star and help others in their open source journey.
+
+### Disclaimer🔴
+**I receive no commission or incentives for your participating in either this project or entering the Hacktoberfest event.**
