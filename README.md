@@ -1,18 +1,18 @@
 # hello-open-source
 
-This repository is meant to help people who are just starting with Open Source and are trying to figure out how to make contributions to other projects.
+This repository helps to kick-start your Open Source journey and makes you comfortable, while creating a PR and registering a contribution.
 
 I know, there are a lot of other repositories out there to make you comfortable with Open Source contributions, but that is the beauty of it ! When you go Open Source, you will find a lot of like minded people working together, making the community strong, helping each other with their problem (most of the time similar problem) and giving back to the community.
 
 ## Before Starting the Next Steps
 
-**Make sure you have read *CONTRIBUTING.md* in *.github* folder of this repository.**
+**Make sure you have read *[CONTRIBUTING.md](https://github.com/siddharth2016/hello-open-source/blob/master/.github/CONTRIBUTING.md)* in *.github* folder of this repository.**
 
 *[What is .github ?](https://stackoverflow.com/questions/60507097/is-there-an-overview-of-what-can-go-into-a-github-dot-github-directory#:~:text=On%20Github%2C%20folder%20.,%2C%20CODE_OF_CONDUCT.md%20etc)* 
 
 ## Next Steps
 
-Please follow next points step-by-step to register your first PR and do a contribution to this repository:
+Jump to any point, follow them step-by-step to register your PR and do a contribution to this repository:
 
 1. [Using Terminal/Command Prompt](https://github.com/siddharth2016/hello-open-source#first-contributions-using-terminal-and-git)
 2. [Using GitHub Directly](https://github.com/siddharth2016/hello-open-source#first-contributions-using-github-directly)
@@ -172,6 +172,10 @@ Something like this
 git push origin hello_siddharth20206
 ```
 
+Enter your username and password, and you are all set !
+
+*[What is git credential store ?](https://git-scm.com/docs/git-credential-store)*
+
 Excellent, all that remains now is to create a pull request, go back to your github forked repository and you should be able to see something like this.
 
 ![Compare and Pull Request](images/compare_pr.png)
@@ -279,3 +283,6 @@ Wait for at most 24 hours to see your first contribution on your profile !
 That's it, if you followed the above steps, you should have been able to create your first PR and your first contribution to Open Source !
 
 #### It would be kind of you to spread the word, give this repo a star and help others in their open source journey.
+
+### Disclaimer🔴
+**I receive no commission or incentives for your participating in either this project or entering the Hacktoberfest event.**
