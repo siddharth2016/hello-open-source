@@ -14,9 +14,9 @@ I know, there are a lot of other repositories out there to make you comfortable 
 
 Jump to any point, follow them step-by-step to register your PR and do a contribution to this repository:
 
-1. [Using Terminal/Command Prompt](https://github.com/siddharth2016/hello-open-source#first-contributions-using-terminal-and-git)
-2. [Using GitHub Directly](https://github.com/siddharth2016/hello-open-source#first-contributions-using-github-directly)
-3. [Check Other Repositories](https://github.com/siddharth2016/hello-open-source#check-other-repositories)
+1. [Using Terminal/Command Prompt](#first-contributions-using-terminal-and-git)
+2. [Using GitHub Directly](#first-contributions-using-github-directly)
+3. [Check Other Repositories](#check-other-repositories)
 
 
 ## First Contributions Using Terminal and Git
