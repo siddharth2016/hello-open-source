@@ -16,4 +16,4 @@ Let's lay down some ground rules before you start contributing to this repositor
 4. It would be kind of you to spread the word, give this repo a star and help others in their open source journey.
 
 
-That's about it, go ahead and rock the world !
+That's about it, go ahead and rock the world!
